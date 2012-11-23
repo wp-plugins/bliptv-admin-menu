@@ -24,7 +24,7 @@ if (!class_exists('RWSDevBlip')) {
             
             /* set plugin path and url */
             $this->pluginpath = dirname(__FILE__);
-            $this->pluginurl = WP_PLUGIN_URL.'/RWSDevBlip/';
+            $this->pluginurl = WP_PLUGIN_URL.'/bliptv-admin-menu/';
             
             /* set table names */
             

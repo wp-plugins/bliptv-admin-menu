@@ -33,5 +33,7 @@ No.  This will only download the data for each video and store that data in a ta
 
 == Changelog ==
 
+= 1.0 =
+* updated path info.
 = 0.10 =
 * Initial version.
