@@ -4,7 +4,7 @@ Plugin Name: bliptv-admin-menu
 Plugin URI: http://rwsdev.net/bliptv-admin-menu
 Description: Wordpress admin area interface for Blip.tv API.  Allow upload, delete and edit of uploaded files on blip.tv
 Author: Jason Becht (RWS Dev Team)
-Version: 1.0  Fri Nov 16 11:44:53 2012
+Version: 1.0  Fri Nov 23 11:44:53 2012
 Author URI: http://rwsdev.net/
 */
 

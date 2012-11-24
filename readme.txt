@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: rwsdev-team
 Donate link: http://rwsdev.net/bliptv-admin-menu
-Tags: blip, blip.tv, api, video, video upload
+Tags: blip, blip.tv, api, video, upload
 Requires at least: 3.0
 Tested up to: 3.4.2
 License: GPLv2 or later
