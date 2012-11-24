@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: rwsdev-team
 Donate link: http://rwsdev.net/bliptv-admin-menu
-Tags: blip, blip.tv, api
+Tags: blip, blip.tv, api, video, video upload
 Requires at least: 3.0
 Tested up to: 3.4.2
 License: GPLv2 or later
@@ -16,18 +16,25 @@ Adds an admin menu for interfacing with the Blip.tv API allowing uploads, delete
 
 This section describes how to install the plugin and get it working.
 
-e.g.
-
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload bliptv-admin-menu.zip to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Go to Admin -> Blip.tv API -> settings and enter your Blip.tv account information.
 1. Click "Import Video Info From Blip" to import or refresh all your video data from your Blip.tv account.
 
 == Frequently Asked Questions ==
 
-= Does this download the actual video files from Blip.tv =
+= Does this download the actual video files from Blip.tv? =
 
 No.  This will only download the data for each video and store that data in a table in your wordpress database.
+
+= Why don't my uploads succeed? =
+
+Uploading of your video files to your hosting server may not work for a couple reasons.
+A few things to check are:
+* Does your hosting provider allow file uploads?
+* Your hosting provider's max upload file size limit: (upload_max_filesize) in php.ini.
+* Your hosting provider's max post size limit: (post_max_size) in php.ini.
+
 
 == Screenshots ==
 
