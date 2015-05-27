@@ -1,9 +1,9 @@
 === Plugin Name ===
-Contributors: rwsdev-team
-Donate link: http://rwsdev.net/bliptv-admin-menu
+Contributors: CrypTech Studios
+Donate link: http://cryptechstudios.com/wp-plugins/bliptv-admin-menu
 Tags: blip, blip.tv, api, video, upload
 Requires at least: 3.0
-Tested up to: 3.5.1
+Tested up to: 4.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,7 +39,8 @@ A few things to check are:
 == Screenshots ==
 
 == Changelog ==
-
+= 2.0 =
+* fine tuned and compatability tested for 4.2.2.
 = 1.0 =
 * updated path info.
 = 0.10 =
